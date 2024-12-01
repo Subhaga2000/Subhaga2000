@@ -36,7 +36,7 @@
 - ⚡ Fun fact I can find patterns in data faster than I can find my  keys!
 
 </td>
-<td width="40%" align="center">
+<td width="60%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://github.com/Subhaga2000/Subhaga2000/blob/main/DATA%20SCIENCE%20MODEL.jpg">
 
