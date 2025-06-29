@@ -13,6 +13,8 @@ Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-
 
 - 🧑‍🎓 I’m an Undergraduate at **SLTC**
   
+- 🎥 I’m passionate about image and video analysis
+  
 - 📫 How to reach me **subhagahansamana500@gmail.com**
 
 - ⚡ Fun fact I can find patterns in data faster than I can find my  keys!
