@@ -3,7 +3,7 @@
 Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-Driven Insights
 
 ## Technologies
-<img src = "https://www.svgrepo.com/show/452091/python.svg" width = "40px"><img src = "https://www.svgrepo.com/show/452234/java.svg" width = "40px"><img src ="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg.png" width = "35px"><img src ="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" width = "35px"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" width = 100px><img src ="[https://www.svgrepo.com/show/373700/tensorflow.svg](https://www.svgrepo.com/show/354440/tensorflow.svg)" width="40px">
+<img src = "https://www.svgrepo.com/show/452091/python.svg" width = "40px"><img src = "https://www.svgrepo.com/show/452234/java.svg" width = "40px"><img src ="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg.png" width = "35px"><img src ="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" width = "35px"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" width = 100px><img src ="https://www.svgrepo.com/show/373700/tensorflow.svg](https://www.svgrepo.com/show/354440/tensorflow.svg" width="40px">
 <img src="https://avatars.githubusercontent.com/u/66386686?s=200&v=4" width="40px">
 
 
