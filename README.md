@@ -3,8 +3,7 @@
 Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-Driven Insights
 
 ## Technologies
-<img src = "https://www.svgrepo.com/show/452091/python.svg" width = "40px"><img src = "https://www.svgrepo.com/show/452234/java.svg" width = "40px"><img src ="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg.png" width = "35px"><img src ="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" width = "35px"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" width = 100px><img src = "https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width = "40px"><img src = "![image](https://github.com/user-attachments/assets/2b04b0fc-1f34-4aa5-9d19-12a4b00f3fe8)
-" width = "35px">
+<img src = "https://www.svgrepo.com/show/452091/python.svg" width = "40px"><img src = "https://www.svgrepo.com/show/452234/java.svg" width = "40px"><img src ="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg.png" width = "35px"><img src ="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" width = "35px"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" width = 100px><img src = "<a target="_blank" href="https://icons8.com/icon/aGJ1gpQ4cowo/yolo">Yolo</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" width = "35px">
 
 ## About Me
 - 🌱 I’m currently learning **TensorFlow**
