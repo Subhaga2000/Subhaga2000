@@ -9,7 +9,7 @@ Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-
 
 
 ## About Me
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **LLM**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLTC**
   
