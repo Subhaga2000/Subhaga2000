@@ -15,7 +15,7 @@ Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-
   
 - 🎥 I’m passionate about image and video analysis
   
-- 📫 How to reach me **subhagahansamana500@gmail.com**
+- 📫 How to reach me **[My portfolio](https://subhaga2000.github.io/my-portfolio/)**
 
 - ⚡ Fun fact I can find patterns in data faster than I can find my  keys!
 
