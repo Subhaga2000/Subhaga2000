@@ -19,6 +19,10 @@ Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-
 
 - ⚡ Fun fact I can find patterns in data faster than I can find my  keys!
 
+## 🏆 Achievements
+
+![Achievement Badge](https://learn.microsoft.com/api/achievements/share/en-us/subhagahansamana-7801/9REV53XU?sharingId=9E670C0E2903FF07s)
+
 <br>
 
 ### Hey there! 😼💻 Let's crack the code and dive into the data!🧡
