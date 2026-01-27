@@ -19,9 +19,12 @@ Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-
 
 - ⚡ Fun fact I can find patterns in data faster than I can find my  keys!
 
-## 🏆 Achievements
+## 🏆 Microsoft Learn Achievement
 
-![Achievement Badge](https://learn.microsoft.com/api/achievements/share/en-us/subhagahansamana-7801/9REV53XU?sharingId=9E670C0E2903FF07s)
+🎉 I completed a Microsoft Learn course as Get started with AI agent development on Azure!
+
+🔗 [View My Achievement on Microsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/subhagahansamana-7801/9REV53XU?sharingId=9E670C0E2903FF07)
+
 
 <br>
 
