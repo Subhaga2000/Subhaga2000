@@ -21,11 +21,11 @@ Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-
 
 ## 🏆 Microsoft Learn Achievement
 
-🎉 I completed a Microsoft Learn course as Get started with AI agent development on Azure!
+🎉 View My Achievement on Microsoft Learn
 
-🔗 [View My Achievement on Microsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/subhagahansamana-7801/9REV53XU?sharingId=9E670C0E2903FF07)
+🔗 [ Get started with AI agent development on Azure!](https://learn.microsoft.com/api/achievements/share/en-us/subhagahansamana-7801/9REV53XU?sharingId=9E670C0E2903FF07)
 <br>
-🔗 [View my achievement on Microsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/subhagahansamana-7801/82BPCNAW?sharingId=9E670C0E2903FF07)
+🔗 [Create an AI agent with Microsoft Foundry](https://learn.microsoft.com/api/achievements/share/en-us/subhagahansamana-7801/82BPCNAW?sharingId=9E670C0E2903FF07)
 
 
 
