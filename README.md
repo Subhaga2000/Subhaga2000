@@ -4,8 +4,30 @@ Passionate Data Science Undergraduate, Exploring AI, Machine Learning, and Data-
 
 ## Technologies
 
-<img src="https://www.svgrepo.com/show/452091/python.svg" width="40px"><img src="https://www.svgrepo.com/show/452234/java.svg" width="40px"><img src="https://play-lh.googleusercontent.com/Fm3QYlDSe36iW-9vCbldCgvyGUOBfVT7zn71r9NPmz0yvlQQU8fMZOZDw-6QXUjaZ9k" width="35px"><img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" width="35px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" width="70px"><img src="https://www.svgrepo.com/show/354440/tensorflow.svg" width="40px"><img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e8d_UltralyticsYOLO_mark_blue.svg" width="40px"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" width="40px"><img src="https://deepfa.ir/img/blogs/9LjjEXfyJz.png" width="40px"><img src="https://www.computerhope.com/jargon/n/n8n.png" width="40px"><img src="https://img.icons8.com/ios7/1200/chatgpt.jpg" width="40px">
+## Technologies
 
+<p align="left">
+
+<!-- Programming -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+
+<!-- Data & Analytics -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+
+<!-- AI / CV -->
+<img src="https://cdn.simpleicons.org/opencv" width="45"/>
+<img src="https://cdn.simpleicons.org/openai" width="45"/>
+
+<!-- Agentic AI -->
+<img src="https://cdn.simpleicons.org/langchain" width="45"/>
+<img src="https://cdn.simpleicons.org/n8n" width="45"/>
+
+<!-- BI Tools -->
+<img src="https://cdn.simpleicons.org/powerbi" width="45"/>
+
+</p>
 
 
 ## About Me
